@@ -1,0 +1,5 @@
+track_id,danceability,energy,loudness,popularity,track_genre
+id1,0.8,0.6,-5.0,75,pop
+id2,0.7,0.8,-4.5,60,rock
+id3,0.9,0.7,-3.8,80,pop
+id4,0.3,0.2,-10.0,40,jazz
